@@ -1,5 +1,5 @@
 describe('Pesquisa no Wikipedia e verificação de termo', () => {
-    it('Pesquisa por Cypress e verifica a página de resultados', () => {
+    it('Pesquisa por QA e verifica a página de resultados', () => {
         // Acessa a página da Wikipedia
         cy.visit('https://www.wikipedia.org/');
 

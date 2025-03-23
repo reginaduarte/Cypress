@@ -1,5 +1,5 @@
 describe('Realizando um teste na página da Avanade', () => {
-    it('Pesquisa um termo no página da Avanade', () => {
+    it('Pesquisa um termo na página da Avanade', () => {
         // Acessa a página da Avanade
         cy.visit('https://www.avanade.com/pt-br');
   
